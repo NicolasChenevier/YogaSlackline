@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Sitting Pose",
+        "difficulty": 1,
+        "photo": "https://cdn.pixabay.com/photo/2017/08/07/14/02/man-2604149_1280.jpg",
+        "category": "sit"
+    },
+    {
+        "name": "Standing Pose",
+        "difficulty": 2,
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Man_on_a_slackline.jpg/1280px-Man_on_a_slackline.jpg",
+        "category": "both feet"
+    },
+    {
+        "name": "One Leg Stand",
+        "difficulty": 3,
+        "photo": "https://cdn.pixabay.com/photo/2017/08/07/14/02/man-2604149_1280.jpg",
+        "category": "both feet"
+    },
+    {
+        "name": "Handstand",
+        "difficulty": 4,
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Man_on_a_slackline.jpg/1280px-Man_on_a_slackline.jpg",
+        "category": "2 hands"
+    },
+    {
+        "name": "Backbend",
+        "difficulty": 5,
+        "photo": "https://cdn.pixabay.com/photo/2017/08/07/14/02/man-2604149_1280.jpg",
+        "category": "back"
+    },
+    {
+        "name": "Shoulder Stand",
+        "difficulty": 4,
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Man_on_a_slackline.jpg/1280px-Man_on_a_slackline.jpg",
+        "category": "shoulder"
+    },
+    {
+        "name": "Buddhasana",
+        "difficulty": 3,
+        "photo": "https://cdn.pixabay.com/photo/2017/08/07/14/02/man-2604149_1280.jpg",
+        "category": "1 foot 1 hand"
+    },
+    {
+        "name": "Plank Pose",
+        "difficulty": 2,
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Man_on_a_slackline.jpg/1280px-Man_on_a_slackline.jpg",
+        "category": "2 hands"
+    }
+]
