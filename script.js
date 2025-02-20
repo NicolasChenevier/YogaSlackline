@@ -208,7 +208,7 @@ let poses = [
         "name": "Bird",
         "category": "Pie-canillas",
         "difficulty": 5.0,
-        "photo": "fotos/Bird.jpg"
+        "photo": "Bird.jpg"
     },
 {
         "name": "Buddha Shield",
