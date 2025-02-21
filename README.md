@@ -5,3 +5,5 @@ Pendientes:
   - cambiar colores
   - mejorar nombres de categorias
   - ordenar por nombre
+  - agregar logo
+  - agregar links a mis redes
