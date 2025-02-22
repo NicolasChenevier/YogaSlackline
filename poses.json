@@ -205,433 +205,433 @@
     },
     {
         "name": "Bird",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Bird.jpg",
         "difficulty": 3
     },
     {
         "name": "Buddha Shield",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Buddha_Shield.jpg",
         "difficulty": 4
     },
     {
         "name": "Butterfly - drop solefood",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Butterfly_-_drop_solefood.jpg",
         "difficulty": 1
     },
     {
         "name": "Crook",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Crook.jpg",
         "difficulty": 1
     },
     {
         "name": "Cross Dropknee",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Cross_Dropknee.jpg",
         "difficulty": 1
     },
     {
         "name": "Doble Dropknee",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Doble_Dropknee.jpg",
         "difficulty": 2
     },
     {
         "name": "Dropknee",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Dropknee.jpg",
         "difficulty": 1
     },
     {
         "name": "Footplant",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Footplant.jpg",
         "difficulty": 1
     },
     {
         "name": "Inward Dropknee",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Inward_Dropknee.jpg",
         "difficulty": 2
     },
     {
         "name": "Kiss the line",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Kiss_the_line.jpg",
         "difficulty": 2
     },
     {
         "name": "Limbo",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Limbo.jpg",
         "difficulty": 5
     },
     {
         "name": "Matrix Footplant",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Matrix_Footplant.jpg",
         "difficulty": 3
     },
     {
         "name": "Medio pretzel",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Medio_pretzel.jpg",
         "difficulty": 4
     },
     {
         "name": "Mirror - saltamontes",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Mirror___saltamontes.jpg",
         "difficulty": 2
     },
     {
         "name": "Pretzel",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Pretzel.jpg",
         "difficulty": 3
     },
     {
         "name": "Shaolin",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Shaolin.jpg",
         "difficulty": 3
     },
     {
         "name": "Triangle Force",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Triangle_Force.jpg",
         "difficulty": 4
     },
     {
         "name": "Undergrap",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Undergrap.jpg",
         "difficulty": 4
     },
     {
         "name": "Undergrip",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Undergrip.jpg",
         "difficulty": 4
     },
     {
         "name": "Youmpretzel",
-        "category": "Pie-canillas",
+        "category": "Pie-Canilla",
         "photo": "Youmpretzel.jpg",
         "difficulty": 5
     },
     {
         "name": "Crazy Crab",
-        "category": "manos",
+        "category": "Manos",
         "photo": "Crazy_Crab.jpg",
         "difficulty": 2
     },
     {
         "name": "Crow",
-        "category": "manos",
+        "category": "Manos",
         "photo": "Crow.jpg",
         "difficulty": 3
     },
     {
         "name": "Sage Kaundinya",
-        "category": "manos",
+        "category": "Manos",
         "photo": "Sage_Kaundinya.jpg",
         "difficulty": 4
     },
     {
         "name": "Eight-Angle",
-        "category": "manos",
+        "category": "Manos",
         "photo": "Eight-Angle.jpg",
         "difficulty": 4
     },
     {
         "name": "Expo floating lotto",
-        "category": "manos",
+        "category": "Manos",
         "photo": "Expo_floating_lotto.jpg",
         "difficulty": 4
     },
     {
         "name": "Iguana",
-        "category": "manos",
+        "category": "Manos",
         "photo": "Iguana.jpg",
         "difficulty": 2
     },
     {
         "name": "L-Sit",
-        "category": "manos",
+        "category": "Manos",
         "photo": "L-Sit.jpg",
         "difficulty": 3
     },
     {
         "name": "OneArmLever",
-        "category": "manos",
+        "category": "Manos",
         "photo": "OneArmLever.jpg",
         "difficulty": 4
     },
     {
         "name": "Perpendicular plank",
-        "category": "manos",
+        "category": "Manos",
         "photo": "Perpendicular_plank.jpg",
         "difficulty": 5
     },
     {
         "name": "Reverse split",
-        "category": "manos",
+        "category": "Manos",
         "photo": "Reverse_split.jpg",
         "difficulty": 3
     },
     {
         "name": "Two Arm Lever",
-        "category": "manos",
+        "category": "Manos",
         "photo": "Two_Arm_Lever.jpg",
         "difficulty": 3
     },
     {
         "name": "HandStand",
-        "category": "Invertidas",
+        "category": "Invertida",
         "photo": "HandStand.jpg",
         "difficulty": 5
     },
     {
         "name": "Shoulder stand",
-        "category": "Invertidas",
+        "category": "Invertida",
         "photo": "Shoulder_stand.jpg",
         "difficulty": 4
     },
     {
         "name": "Shoulder Stand free hands",
-        "category": "Invertidas",
+        "category": "Invertida",
         "photo": "Shoulder_Stand_free_hands.jpg",
         "difficulty": 5
     },
     {
         "name": "Shoulder stand front",
-        "category": "Invertidas",
+        "category": "Invertida",
         "photo": "Shoulder_stand_front.jpg",
         "difficulty": 3
     },
     {
         "name": "Shoulder Stand grabbed",
-        "category": "Invertidas",
+        "category": "Invertida",
         "photo": "Shoulder_Stand_grabbed.jpg",
         "difficulty": 5
     },
     {
         "name": "Shoulder foot",
-        "category": "Invertidas",
+        "category": "Invertida",
         "photo": "Shoulder_foot.jpg",
         "difficulty": 4
     },
     {
         "name": "Shoulderstand Lotto",
-        "category": "Invertidas",
+        "category": "Invertida",
         "photo": "Shoulderstand_Lotto.jpg",
         "difficulty": 5
     },
     {
         "name": "A.C.A.B",
-        "category": "rodillas",
+        "category": "Rodillas",
         "photo": "A.C.A.B.jpg",
         "difficulty": 5
     },
     {
         "name": "Chenepointer",
-        "category": "rodillas",
+        "category": "Rodillas",
         "photo": "Chenepointer.jpg",
         "difficulty": 3
     },
     {
         "name": "Crossed knee",
-        "category": "rodillas",
+        "category": "Rodillas",
         "photo": "Crossed_knee.jpg",
         "difficulty": 3
     },
     {
         "name": "Kneefeet",
-        "category": "rodillas",
+        "category": "Rodillas",
         "photo": "Kneefeet.jpg",
         "difficulty": 2
     },
     {
         "name": "Knee Stand",
-        "category": "rodillas",
+        "category": "Rodillas",
         "photo": "Knee_Stand.jpg",
         "difficulty": 2
     },
     {
         "name": "Pelicano",
-        "category": "rodillas",
+        "category": "Rodillas",
         "photo": "Pelicano.jpg",
         "difficulty": 5
     },
     {
         "name": "Pointer",
-        "category": "rodillas",
+        "category": "Rodillas",
         "photo": "Pointer.jpg",
         "difficulty": 2
     },
     {
         "name": "Skill Knee",
-        "category": "rodillas",
+        "category": "Rodillas",
         "photo": "Skill_Knee.jpg",
         "difficulty": 4
     },
     {
         "name": "standing lotus",
-        "category": "rodillas",
+        "category": "Rodillas",
         "photo": "standing_lotus.jpg",
         "difficulty": 5
     },
     {
         "name": "Tapiapointer",
-        "category": "rodillas",
+        "category": "Rodillas",
         "photo": "Tapiapointer.jpg",
         "difficulty": 4
     },
     {
         "name": "Back Static",
-        "category": "espalda-sentados",
+        "category": "Espalda-Sentados",
         "photo": "Back_Static.jpg",
         "difficulty": 2
     },
     {
         "name": "Buddha sit",
-        "category": "espalda-sentados",
+        "category": "Espalda-Sentados",
         "photo": "Buddha_sit.jpg",
         "difficulty": 1
     },
     {
         "name": "Extended buddha",
-        "category": "espalda-sentados",
+        "category": "Espalda-Sentados",
         "photo": "Extended_buddha.jpg",
         "difficulty": 1
     },
     {
         "name": "Heron",
-        "category": "espalda-sentados",
+        "category": "Espalda-Sentados",
         "photo": "Heron.jpg",
         "difficulty": 1
     },
     {
         "name": "korean linesnap static",
-        "category": "espalda-sentados",
+        "category": "Espalda-Sentados",
         "photo": "korean_linesnap_static.jpg",
         "difficulty": 2
     },
     {
         "name": "Lazy Boy",
-        "category": "espalda-sentados",
+        "category": "Espalda-Sentados",
         "photo": "Lazy_Boy.jpg",
         "difficulty": 1
     },
     {
         "name": "Lazy Girl",
-        "category": "espalda-sentados",
+        "category": "Espalda-Sentados",
         "photo": "Lazy_Girl.jpg",
         "difficulty": 1
     },
     {
         "name": "Lazy girl crosset",
-        "category": "espalda-sentados",
+        "category": "Espalda-Sentados",
         "photo": "Lazy_girl_crosset.jpg",
         "difficulty": 1
     },
     {
         "name": "Lazy squirrel",
-        "category": "espalda-sentados",
+        "category": "Espalda-Sentados",
         "photo": "Lazy_squirrel.jpg",
         "difficulty": 2
     },
     {
         "name": "Lady sit",
-        "category": "espalda-sentados",
+        "category": "Espalda-Sentados",
         "photo": "Lady_sit.jpg",
         "difficulty": 1
     },
     {
         "name": "Meditation",
-        "category": "espalda-sentados",
+        "category": "Espalda-Sentados",
         "photo": "Meditation.jpg",
         "difficulty": 3
     },
     {
         "name": "Needdle sit",
-        "category": "espalda-sentados",
+        "category": "Espalda-Sentados",
         "photo": "Needdle_sit.jpg",
         "difficulty": 1
     },
     {
         "name": "Needdle sit con grab",
-        "category": "espalda-sentados",
+        "category": "Espalda-Sentados",
         "photo": "Needdle_sit_con_grab.jpg",
         "difficulty": 1
     },
     {
         "name": "Spraddle static",
-        "category": "espalda-sentados",
+        "category": "Espalda-Sentados",
         "photo": "Spraddle_static.jpg",
         "difficulty": 1
     },
     {
         "name": "Chest static",
-        "category": "Mano pie",
+        "category": "Mano-Pie",
         "photo": "Chest_static.jpg",
         "difficulty": 1
     },
     {
         "name": "Cathedral",
-        "category": "Mano pie",
+        "category": "Mano-Pie",
         "photo": "Cathedral.jpg",
         "difficulty": 3
     },
     {
         "name": "Diagonal Stand grab",
-        "category": "Mano pie",
+        "category": "Mano-Pie",
         "photo": "Diagonal_Stand_grab.jpg",
         "difficulty": 2
     },
     {
         "name": "Dragonfly - libelula",
-        "category": "Mano pie",
+        "category": "Mano-Pie",
         "photo": "Dragonfly__libelula.jpg",
         "difficulty": 4
     },
     {
         "name": "Drop side one foot lever",
-        "category": "Mano pie",
+        "category": "Mano-Pie",
         "photo": "Drop_side_one_foot_lever.jpg",
         "difficulty": 3
     },
     {
         "name": "Scorpion",
-        "category": "Mano pie",
+        "category": "Mano-Pie",
         "photo": "Scorpion.jpg",
         "difficulty": 3
     },
     {
         "name": "Side plank",
-        "category": "Mano pie",
+        "category": "Mano-Pie",
         "photo": "Side_plank.jpg",
         "difficulty": 2
     },
     {
         "name": "Side Table",
-        "category": "Mano pie",
+        "category": "Mano-Pie",
         "photo": "Side_Table.jpg",
         "difficulty": 4
     },
     {
         "name": "Sirenito",
-        "category": "Mano pie",
+        "category": "Mano-Pie",
         "photo": "Sirenito.jpg",
         "difficulty": 3
     },
     {
         "name": "Star",
-        "category": "Mano pie",
+        "category": "Mano-Pie",
         "photo": "Star.jpg",
         "difficulty": 3
     }
