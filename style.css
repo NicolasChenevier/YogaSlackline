@@ -67,3 +67,20 @@ header {
     font-size: 0.9rem;
     color: #555;
 }
+/* Añade estos estilos a tu CSS existente */
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.logo {
+    height: 2em; /* Esto hará que el logo tenga la altura de dos caracteres del texto */
+    width: auto; /* Mantiene la proporción de la imagen */
+}
+
+h1 {
+    margin: 0; /* Elimina el margen por defecto del h1 */
+    font-size: 2rem; /* Tamaño de fuente para el título */
+}
