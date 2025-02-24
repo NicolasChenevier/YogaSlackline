@@ -5,7 +5,6 @@ body {
     background-color: #f4f4f4;
 }
 
-/* Estilos del header */
 header {
     background-color: #000000;
     color: #fff;
@@ -13,38 +12,14 @@ header {
     text-align: center;
 }
 
-/* Contenedor del título y los logos */
-.header-content {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 15px;
-}
-
-/* Logo alineado con el título */
-.logo {
-    height: 50px; /* Ajusta el tamaño del logo */
-    width: auto; /* Mantiene la proporción */
-}
-
-/* Estilos del título */
-h1 {
-    font-size: 2rem;
-    margin: 0;
-}
-
-/* Estilos del buscador */
 #search-bar {
-    width: 80%;
-    max-width: 400px;
+    width: 100%;
     padding: 0.5rem;
-    margin: 1rem auto 0;
-    display: block;
+    margin-top: 0.5rem;
     border: 1px solid #ddd;
     border-radius: 4px;
 }
 
-/* Estilos de los filtros */
 #filters {
     display: flex;
     justify-content: space-around;
@@ -61,7 +36,6 @@ h1 {
     border-radius: 4px;
 }
 
-/* Lista de poses con diseño de cuadrícula */
 #pose-list {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -69,7 +43,6 @@ h1 {
     padding: 1rem;
 }
 
-/* Estilos de las tarjetas de poses */
 .pose-card {
     background-color: #fff;
     border: 1px solid #ddd;
@@ -78,7 +51,6 @@ h1 {
     text-align: center;
 }
 
-/* Imágenes dentro de las tarjetas */
 .pose-card img {
     max-width: 100%;
     height: auto;
@@ -86,12 +58,10 @@ h1 {
     margin-bottom: 0.5rem;
 }
 
-/* Título dentro de las tarjetas */
 .pose-card h3 {
     margin: 0.5rem 0;
 }
 
-/* Descripción dentro de las tarjetas */
 .pose-card p {
     margin: 0.5rem 0;
     font-size: 0.9rem;
