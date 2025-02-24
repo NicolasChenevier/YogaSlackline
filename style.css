@@ -10,6 +10,10 @@ header {
     color: #fff;
     padding: 1rem;
     text-align: center;
+    position: fixed; /* Hace que el header quede fijo */
+    top: 0; /* Lo posiciona en la parte superior */
+    width: 100%; /* Asegura que ocupe todo el ancho */
+    z-index: 1000; /* Asegura que esté por encima de otros elementos */
 }
 
 #search-bar {
@@ -83,4 +87,7 @@ header {
 h1 {
     margin: 0; /* Elimina el margen por defecto del h1 */
     font-size: 2rem; /* Tamaño de fuente para el título */
+}
+main {
+    margin-top: 120px; /* Ajusta este valor según la altura de tu header */
 }
