@@ -6,22 +6,49 @@ body {
 }
 
 header {
-    background-color: #000000;
+    background-color: #000;
     color: #fff;
-    padding: 0rem;
+    padding: 0.5rem 1rem;
     text-align: center;
-    position: fixed; /* Hace que el header quede fijo */
-    top: 0; /* Lo posiciona en la parte superior */
-    width: 100%; /* Asegura que ocupe todo el ancho */
-    z-index: 1000; /* Asegura que esté por encima de otros elementos */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.header-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin-top: 0.5rem;
 }
 
 #search-bar {
     width: 250px;
     padding: 0.5rem;
-    margin-top: 0.5rem;
     border: 1px solid #ddd;
     border-radius: 4px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 10px;
+}
+
+.social-icons img {
+    width: 30px;
+    height: 30px;
 }
 
 #filters {
@@ -71,23 +98,17 @@ header {
     font-size: 0.9rem;
     color: #555;
 }
-/* Añade estos estilos a tu CSS existente */
-.header-content {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
-}
 
 .logo {
-    height: 2em; /* Esto hará que el logo tenga la altura de dos caracteres del texto */
-    width: auto; /* Mantiene la proporción de la imagen */
+    height: 2em; /* Ajusta el tamaño del logo */
+    width: auto;
 }
 
 h1 {
-    margin: 0; /* Elimina el margen por defecto del h1 */
-    font-size: 2rem; /* Tamaño de fuente para el título */
+    margin: 0;
+    font-size: 2rem;
 }
+
 main {
-    margin-top: 120px; /* Ajusta este valor según la altura de tu header */
+    margin-top: 120px;
 }
