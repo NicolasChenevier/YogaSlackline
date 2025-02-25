@@ -8,7 +8,7 @@ body {
 header {
     background-color: #000000;
     color: #fff;
-    padding: 1rem;
+    padding: 0rem;
     text-align: center;
     position: fixed; /* Hace que el header quede fijo */
     top: 0; /* Lo posiciona en la parte superior */
@@ -17,8 +17,8 @@ header {
 }
 
 #search-bar {
-    width: 300px;
-    padding: 0.5rem;
+    width: 250px;
+    padding: 0rem;
     margin-top: 0.5rem;
     border: 1px solid #ddd;
     border-radius: 4px;
