@@ -31,6 +31,7 @@ header {
     justify-content: space-between;
     align-items: center;
     width: 90%;
+    margin: 0 auto; /* Centra el div dentro del header */
     margin-top: 0.5rem;
 }
 
