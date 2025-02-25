@@ -1,5 +1,5 @@
 Pendientes:
-  - achicar barra search
+  - centrar header
   - agregar links a mis redes
   - que se vean más fotos en pantalla de celular
   - reemplazar fotos por propias
