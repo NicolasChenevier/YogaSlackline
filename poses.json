@@ -78,6 +78,12 @@
         "difficulty": 3
     },
     {
+        "name": "Lotto_sit",
+        "category": "Espalda-Sentados",
+        "photo": "Lotto_sit.jpg",
+        "difficulty": 2
+    },
+    {
         "name": "No Wey",
         "category": "Pies",
         "photo": "No_Wey.jpg",
