@@ -78,6 +78,12 @@ let poses = [
         "photo": "fotos/Inline_solefood.jpg"
     },
 {
+        "name": "Lotto_sit",
+        "category": "Espalda-Sentados",
+        "difficulty": 2,
+        "photo": "fotos/Lotto_sit.jpg"
+    },
+{
         "name": "No Wey",
         "category": "Pies",
         "difficulty": 4,
