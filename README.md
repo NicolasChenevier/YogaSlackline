@@ -7,17 +7,17 @@ Pendientes:
 
 Sugerencias ChatGPT:
 Mejora técnica
-├── Hacer la interfaz responsive para celulares
-├── Sidebar de navegación con categorías y niveles
-└── Animaciones simples (transiciones al cambiar filtros)
+  - Hacer la interfaz responsive para celulares
+  - Sidebar de navegación con categorías y niveles
+  - Animaciones simples (transiciones al cambiar filtros)
 
 Valor agregado
-├── Texto por pose: explicación, beneficios, nivel recomendado
-├── Fotos originales tuyas (reemplazo de imágenes genéricas)
-├── Integración con tus redes: que cada pose se pueda compartir a Instagram/Twitter
-└── Versión bilingüe (inglés/español)
+  - Texto por pose: explicación, beneficios, nivel recomendado
+  - Fotos originales tuyas (reemplazo de imágenes genéricas)
+  - Integración con tus redes: que cada pose se pueda compartir a Instagram/Twitter
+  - Versión bilingüe (inglés/español)
 
 Escalabilidad futura
-├── Convertir el JSON en una API simple (para integrarlo en apps móviles más adelante)
-├── Permitir contribuciones de otros (colaboradores que suban nuevas poses)
-└── Gamificación: logros o rutas de aprendizaje (ej. “completa todas las invertidas nivel 2”)
+  - Convertir el JSON en una API simple (para integrarlo en apps móviles más adelante)
+  - Permitir contribuciones de otros (colaboradores que suban nuevas poses)
+  - Gamificación: logros o rutas de aprendizaje (ej. “completa todas las invertidas nivel 2”)
