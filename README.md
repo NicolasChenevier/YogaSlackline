@@ -1,4 +1,6 @@
 Pendientes:
+  - formato dificultad x estrellas 1 a 5
+  - todo al inglés 
   - que se vean más fotos en pantalla de celular
   - reemplazar fotos por propias
   - ordenar por nombre/dificultad/categoria
