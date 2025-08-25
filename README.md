@@ -1,11 +1,14 @@
 Pendientes:
   - formato dificultad x estrellas 1 a 5
+  - poder registrarse
+  - todo gratis, pero plan plus permite más cosas, como checklist de trucos y generador de combos
   - todo al inglés 
   - que se vean más fotos en pantalla de celular
   - reemplazar fotos por propias
   - ordenar por nombre/dificultad/categoria
   - incorporarle un sidebar con el listado de trucos, con la posibilidad de seccionarlos por categoría o por dificultad
-  - rediseñar estetica filtros 
+  - rediseñar estetica filtros
+  - usar next.js y node.js
 
 Sugerencias ChatGPT:
 Mejora técnica
