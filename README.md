@@ -1,6 +1,7 @@
 Pendientes:
   - formato dificultad x estrellas 1 a 5
   - poder registrarse
+  - boton vista modo galeria/lista con galeria por defecto
   - todo gratis, pero plan plus permite más cosas, como checklist de trucos y generador de combos
   - todo al inglés 
   - que se vean más fotos en pantalla de celular
